@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'package:saodi_task/presentation/screens/home_screen.dart';
+import 'package:saodi_task/presentation/style/theme.dart';
 import 'package:sizer/sizer.dart';
 
 void main() {
@@ -17,13 +18,7 @@ class MyApp extends StatelessWidget {
     return Sizer(builder: (context, orientation, deviceType) {
       return GetMaterialApp(
         debugShowCheckedModeBanner: false,
-        theme: ThemeData(
-          scaffoldBackgroundColor: Colors.white,
-          appBarTheme: const AppBarTheme(
-            backgroundColor: Colors.white,
-            elevation: 0,
-          ),
-        ),
+        theme: lightTheme,
         themeMode: ThemeMode.light,
         home: AnnotatedRegion<SystemUiOverlayStyle>(
             value: const SystemUiOverlayStyle(
