@@ -1,0 +1,136 @@
+{
+  "AddressData":[
+    {
+      "title": "Home Address",
+      "subTitle": "Mustafa St. No:2 Street x12"
+    },
+    {
+      "title": "Office Address",
+      "subTitle": "Axis Istanbul, B2 Blok Floor 2, Office 11"
+    }
+  ],
+  "CategoryData":[
+    {
+      "color": "AppColor.kBlue",
+      "title": "Steak"
+    },
+    {
+      "color": "AppColor.kAmber",
+      "title": "Vegetables"
+    },
+    {
+      "color": "AppColor.kBlueGrey",
+      "title": "Beverages"
+    },
+    {
+      "color": "AppColor.kBrown",
+      "title": "Fish"
+    },
+    {
+      "color": "AppColor.kCover",
+      "title": "Juice"
+    },
+    {
+      "color": "AppColor.kCyan",
+      "title": "Steak"
+    },
+    {
+      "color": "AppColor.kDeepOrange",
+      "title": "Vegetables"
+    },
+    {
+      "color": "AppColor.kGrey",
+      "title": "Beverages"
+    },
+    {
+      "color": "AppColor.kLightGreen",
+      "title": "Steak"
+    },
+    {
+      "color": "AppColor.kRed",
+      "title": "Fish"
+    }
+  ],
+  "DealsData":[
+    {
+      "color": "AppColor.kAmber",
+      "isLike": false,
+      "title": "Summer Sun Ice Cream Pack",
+      "pieces": "5",
+      "time": "15 Minutes Away",
+      "price": "12",
+      "discount_price": "18"
+    },
+    {
+      "color": "AppColor.kAmber",
+      "isLike": false,
+      "title": "Summer Sun Ice Cream Pack",
+      "pieces": "5",
+      "time": "15 Minutes Away",
+      "price": "12",
+      "discount_price": "18"
+    },
+    {
+      "color": "AppColor.kBlue",
+      "isLike": true,
+      "title": "Summer Sun Ice Cream Pack",
+      "pieces": "5",
+      "time": "15 Minutes Away",
+      "price": "12",
+      "discount_price": "18"
+    },
+    {
+      "color": "AppColor.kBrown",
+      "isLike": false,
+      "title": "Summer Sun Ice Cream Pack",
+      "pieces": "5",
+      "time": "15 Minutes Away",
+      "price": "12",
+      "discount_price": "18"
+    }
+  ],
+  "OfferData":{
+    "title": "Mega",
+    "prand": "WHOPPER",
+    "price": "17",
+    "discount_price": "18",
+    "time": "Available until 24 December 2020"
+  },
+  "OrderData":[
+    {
+      "color": "AppColor.kAmber",
+      "title": "Turkish Steak",
+      "subTitle": "173 Grams",
+      "price": "25",
+      "quantity": 1
+    },
+    {
+      "color": "AppColor.kBlack",
+      "title": "Salmon",
+      "subTitle": "173 Grams",
+      "price": "25",
+      "quantity": 1
+    },
+    {
+      "color": "AppColor.kBlue",
+      "title": "Red Juice",
+      "subTitle": "173 Grams",
+      "price": "25",
+      "quantity": 1
+    },
+    {
+      "color": "AppColor.kBlueGrey",
+      "title": "Cola",
+      "subTitle": "173 Grams",
+      "price": "25",
+      "quantity": 1
+    },
+    {
+      "color": "AppColor.kCyan",
+      "title": "Turkish Steak",
+      "subTitle": "173 Grams",
+      "price": "25",
+      "quantity": 1
+    }
+  ]
+}
